@@ -23,3 +23,10 @@
     text-decoration: none;
     text-align: center;
 }
+
+.sidebar {
+    width: 200px;
+    float: left;
+    background-color: #f4f4f4;
+    padding: 20px;
+}	
